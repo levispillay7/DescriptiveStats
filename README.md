@@ -10,6 +10,7 @@ This GitHub Repository contains my submission for my descriptive statisitcs assi
 In this Repo there are 2 files:
 * Descriptive_Stats.ipynb : the python notebook containing my code and conclusions
 * gdp.csv : The data set I worked with for the assignment
+* Descriptive stats output 1 & 2: The format for the output get a bit jumbled up when opening the notebook on any platform that runs jupyter lite. so I included screenshotsof the output
 <hr>
 
 ## ASSIGNMENT SUMMARY<br/>
