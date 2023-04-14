@@ -20,3 +20,8 @@ In this Repo there are 2 files:
 ## SOURCES
 the dataset can be found at:
 "https://www.kaggle.com/datasets/yapwh1208/countries-gdp-2012-to-2021"
+
+<hr>
+##  Output Files 
+<img src="/descriptive stats output 1.png" alt="Alt text" title="Optional title">
+<img src="/descriptive stats output 2.png" alt="Alt text" title="Optional title">
